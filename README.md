@@ -1,9 +1,8 @@
-# ShellInjector
-Execute any shell command within another process using a super simple injection technique</br>
+# DumpPE
+Dump the mapped PE files</br>
 
-![](https://github.com/d35ha/ShellInjector/raw/master/images/inject.gif)
 # How to use
-`inject.exe [pid] [cmd]`
+`dumpPE.exe [pid] [hex_adress] [out_pe]`</br>
 # Download
-[64-bit binary](https://github.com/d35ha/ShellInjector/raw/master/bins/inject64.exe)</br>
-[32-bit binary](https://github.com/d35ha/ShellInjector/raw/master/bins/inject32.exe)</br>
+[64-bit binary](https://github.com/d35ha/DumpPE/raw/master/bins/dumpPE64.exe)</br>
+[32-bit binary](https://github.com/d35ha/DumpPE/raw/master/bins/dumpPE32.exe)</br>
